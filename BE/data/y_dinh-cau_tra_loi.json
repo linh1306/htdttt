@@ -1,0 +1,31 @@
+{
+  "chao hoi": [
+    "Chào bạn tôi là chatbot được phát triển bởi nhóm 24",
+    "Chào bạn",
+    "Bạn cần tôi giúp gì",
+    "Tôi đã sẵn sàng lắng nghe câu trả lời của bạn"
+  ],
+  "hoi chuc nang": [
+    "Tôi có thể chuẩn đoán các căn bệnh về điền kinh dựa trên các triệu chứng của bạn",
+    "Tôi có thể chuẩn đoán các bệnh về điền kinh",
+    "bạn có thể liệt kê ra các triệu chứng , tôi sẽ chuẩn đoán bệnh giúp bạn"
+  ],
+  "can su tro giup": [
+    "Bạn có thể nói cho tôi biết các triệu chứng bạn gặp phải để được tư vấn",
+    "Tôi luôn ở đây để giúp bạn nhận biết các căn bệnh về điền kinh",
+    "Tôi đã sẵn sàng lắng nghe các triệu chứng của bạn",
+    "Bạn hãy liệt kê ra các triệu chứng liên quan tới bệnh điền kinh tôi sẽ giúp bạn chuẩn đoán"
+  ],
+  "tu biet": [
+    "Chào bạn, mong rằng câu trả lời của tôi giúp ích được cho bạn",
+    "Rất vui vì đã giúp đỡ được cho bạn",
+    "Mong rằng câu trả lời của tôi đã giúp ích được cho bạn",
+    "Chào bạn, hẹn gặp lại",
+    "Mong sẽ dược gặp lại bạn sớm"
+  ],
+  "khong hieu duoc": [
+    "Xin lỗi bạn tôi là một mô hình đang phát triển tôi chưa hiểu được ý định của bạn, bạn có thể trả lời rõ ràng hơn không",
+    "Xin lỗi về sự bất tiện này, tôi chưa thể nhận biết được hết các câu hỏi của bạn, bạn có thể kiểm tra lại lỗi chính tả không",
+    "Tôi chưa thể hiểu được câu hỏi của bạn, bạn có thể hỏi lại không"
+  ]
+}

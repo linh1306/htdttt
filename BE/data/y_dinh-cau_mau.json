@@ -1,0 +1,57 @@
+{
+  "chao hoi": [
+    "xin chào",
+    "hello",
+    "chào bạn",
+    "chào",
+    "chào tôi đi",
+    "hú",
+    "hế lô",
+    "xin chào, tôi là linh",
+    "xin chào, tôi là liên"
+  ],
+  "hoi chuc nang": [
+    "bạn có thể làm được những gì",
+    "bạn làm được gì",
+    "bạn có thể làm gì",
+    "bạn giúp gì được cho tôi"
+  ],
+  "can su tro giup": [
+    "tôi cần giúp đỡ",
+    "bạn có thể giúp tôi không",
+    "tôi đang gặp khó khăn",
+    "tôi đang bị bệnh"
+  ],
+  "tu biet": [
+    "thôi tôi bận rồi mai nói tiếp",
+    "tạm biệt",
+    "oke rồi",
+    "oke cảm ơn",
+    "cảm ơn",
+    "cảm ơn bạn"
+  ],
+  "yeu cau chuan doan benh": [
+    "vậy tóm lại tôi bị bệnh gì",
+    "vậy tôi bị bệnh gì vậy",
+    "bệnh tôi mắc phải là gì"
+  ],
+  "khong hieu duoc": [
+    ""
+  ],
+
+  
+  "tu choi": [
+    "không phải đâu",
+    "không đúng",
+    "sai",
+    "tôi không bị",
+    "tôi không cảm thấy"
+  ],
+  "yeu cau liet ke list trieu chung": [
+    "danh sách các triệu chứng",
+    "bạn có thể nhận dạng được các triệu chứng nào",
+    "bạn biết các triệu chứng nào",
+    "list triệu chứng",
+    "list"
+  ]
+}
